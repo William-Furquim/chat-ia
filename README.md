@@ -10,15 +10,13 @@ Interface de chat no estilo dos assistentes de IA generativa: o usuário faz log
 
 | Nome | RM |
 |------|----|
-| William Furquim | 562800 |
-| _(preencher)_ | _(preencher)_ |
-| _(preencher)_ | _(preencher)_ |
+| Matheus Cardoso | 564898 |
+| Caique Sousa | 563621 |
+| Paulo Gabriel | 566446 |
+| William Stahl | 562800 |
+| Lucas Gambini | 564750 |
 
 Turma: 2TIAPY
-
-## Vídeo de apoio
-
-Caso o projeto não rode na máquina de avaliação, a demonstração completa está em [`docs/demo.mp4`](docs/demo.mp4) (≈48 s: documentação `/docs`, cadastro, login, duas conversas, retomada e persistência após sair/entrar).
 
 ## Arquitetura
 
