@@ -18,6 +18,10 @@ Interface de chat no estilo dos assistentes de IA generativa: o usuário faz log
 
 Turma: 2TIAPY
 
+## Link do Vídeo
+
+https://youtu.be/qr8IKbNV9EI
+
 ## Arquitetura
 
 Dois projetos independentes (cada um com seu `requirements.txt`, `.env.example` e processo), em portas diferentes:
